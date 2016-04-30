@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contrails</string>
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="btnIntend">Take Picture</string>
+    <string name="findOut">Contrail or Not?</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+</resources>
